@@ -33,7 +33,7 @@ I obtained my Ph.D. in 2025 from **Queen's University Belfast (QUB)**, UK, under
 
 With over eight years of experience in computer vision and machine learning, my research bridges fundamental problems with real-world applications. I have a particular focus on:
 
-* **Generative Models** (GAN and Diffusion Models, etc.)
+* **Generative Models** (e.g., GANs and Diffusion Models)
 * **Data-Efficient Learning**
-* **Large Language Models (LLMs) Reasoning**
-* **Efficient Hardware Design**
+* **LLM Reasoning (QA and Grounding)**
+* **Efficient Models for Mobile Devices and Hardware-Aware Design**
