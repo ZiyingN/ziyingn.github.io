@@ -31,9 +31,11 @@ I am currently a Researcher at **Huawei 2012 Labs, Darwin Research Center** in L
 
 I obtained my Ph.D. in 2025 from **Queen's University Belfast (QUB)**, UK, under the supervision of Dr. [Yang Hua](https://yanghuadr.github.io), Dr. Sean McLoone, and Dr. Hui Wang. My Ph.D. research was fully funded by the DfE scholarship. Prior to that, I received my Master’s (2020) and Bachelor's (2017) degrees from the **University of Science and Technology of China (USTC)**, advised by Prof. Jun Yu.
 
-With over eight years of experience in computer vision and machine learning, my research bridges fundamental problems with real-world applications. I have a particular focus on:
+With over eight years of experience in computer vision and machine learning, my research bridges fundamental problems with real-world applications. I have a particular focus on the topic with **Towards Efficient Deep Learning Model**:
 
-* **Generative Models** (e.g., GANs and Diffusion Models)
-* **Data-Efficient Learning**
-* **LLM Reasoning (QA and Grounding)**
-* **Efficient Models for Mobile Devices and Hardware-Aware Design**
+* **Data Efficient** 
+* **Model Efficient**
+* **Hardware Efficient**
+
+With the specific area on Generative Models (e.g., GANs and Diffusion Models), LLM Reasoning (QA and Grounding) and diverse mobile applications.
+
