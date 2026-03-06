@@ -10,7 +10,7 @@ profile:
   image_circular: true
   address: >
     <p>CSIT</p>
-    <p>QUB</p>
+    <p>QUB </p>
     <p>Belfast, UK</p>
 
 selected_papers: false # 强烈建议改为 true，这是 al-folio 最好看的功能之一
