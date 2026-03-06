@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 -->
 
-- **Spring 2025**: Teaching Assistant, *Computer Vision* (ECS8053), MSc in AI, Queen’s University Belfast
+- **Spring 2026**: Teaching Assistant, *Computer Vision* (ECS8053), MSc in AI, Queen’s University Belfast
 - **Spring 2024**: Teaching Assistant, *Computer Vision* (ECS8053), MSc in AI, Queen’s University Belfast
 - **Autumn 2022**: Teaching Assistant, *Data Visualization and Analysis* (CSC3062), BSc in CS, Queen’s University Belfast
 
