@@ -6,7 +6,7 @@ subtitle: <a href='#'>Research Fellow</a>. CSIT, Queen's University Belfast, Bel
 
 profile:
   align: right  # 建议改为 right，视觉上通常比 left 更平衡，图片在右文字在左
-  image: Ziying.png
+  image: Ziying1.png
   image_circular: true
   address: >
     <p>CSIT</p>
