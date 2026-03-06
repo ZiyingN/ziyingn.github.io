@@ -36,5 +36,5 @@ With over 8 years of experience in Hardware Implemenation of Post-quantum crypto
 * **Hardware Design for Post-Quantum Cryptography. (mainly on lattice-based and isogeny-based PQCs)** 
 * **Hardware Attack: side-channel attack and fault attack.**
 
-I specialize in Lattice-based PQC Schems(e.g., Kyber, Dilithium and Raccoo), Isogeny-based Schems(SIKE), Masking and fault-tolerant computation.
+I specialize in Lattice-based PQC Schems(e.g., Kyber, Dilithium and Raccoon), Isogeny-based Schems(SIKE), Masking and fault-tolerant computation.
 
