@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher</a>. Huawei 2012 Labs. London, UK.
+subtitle: <a href='#'>Research Fellow</a>. CSIT, Queen's University Belfast, Belfast, UK.
 
 profile:
   align: right  # 建议改为 right，视觉上通常比 left 更平衡，图片在右文字在左
@@ -27,15 +27,14 @@ latest_posts:
   limit: 3
 ---
 
-I am currently a Researcher at **Huawei 2012 Labs, Darwin Research Center** in London, UK.
+I am currently a Research Fellow at **CSIT, Queen's University Belfast** in Belfast, UK.
 
-I obtained my Ph.D. in 2025 from **Queen's University Belfast (QUB)**, UK, under the supervision of Dr. [Yang Hua](https://yanghuadr.github.io), Dr. Sean McLoone, and Dr. Hui Wang. My Ph.D. research was fully funded by the DfE scholarship. Prior to that, I received my Master’s (2020) and Bachelor's (2017) degrees from the **University of Science and Technology of China (USTC)**, advised by Prof. Jun Yu.
+I obtained my Ph.D. in 2024 from **Queen's University Belfast (QUB)**, UK, under the supervision of Prof. [ Máire O'Neill]([https://yanghuadr.github.io](https://www.qub.ac.uk/schools/eeecs/Study/PostgraduateResearch/find-a-phd-supervisor/professor-maire-oneill.html)), Dr. Ayesha Khalid. My Ph.D. research was fully funded by the EPSRC studentship. Prior to that, I received my Master’s (2021) from **Nanjing University of Aeronautics and Astronautics** advised by Prof. Weiqaing Liu and Bachelor's (2018) degrees from the **Hainan University**.
 
-With over eight years of experience in Computer Vision and Machine Learning, my research bridges fundamental problems with real-world applications. I have a particular focus on **Efficient Deep Learning**:
+With over 8 years of experience in Hardware Implemenation of Post-quantum cryptography schemes, my research bridges fundamental problems with real-world applications. I have a particular focus on:
 
-* **Data Efficiency** 
-* **Model Efficiency**
-* **Hardware Efficiency**
+* **Hardware Design for Post-Quantum Cryptography. (mainly on lattice-based and isogeny-based PQCs)** 
+* **Hardware Attack: side-channel attack and fault attack.**
 
-I specialize in Generative Models (e.g., GANs and Diffusion Models), LLM Reasoning (QA and Grounding), Light hardware designing and diverse mobile applications.
+I specialize in Lattice-based PQC Schems(e.g., Kyber, Dilithium and Raccoo), Isogeny-based Schems(SIKE), Masking and fault-tolerant computation.
 
