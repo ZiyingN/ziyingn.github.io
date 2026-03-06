@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One Paper has been accepted by DAC2026 
+One Paper has been accepted by DAC2026

@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Research Fellow</a>. CSIT, Queen's University Belfast, Belfast, UK.
 
 profile:
-  align: right  # 建议改为 right，视觉上通常比 left 更平衡，图片在右文字在左
+  align: right # 建议改为 right，视觉上通常比 left 更平衡，图片在右文字在左
   image: Ziying1.png
   image_circular: true
   address: >
@@ -33,8 +33,7 @@ I obtained my Ph.D. in 2024 from **Queen's University Belfast (QUB)**, UK, under
 
 With over 8 years of experience in Hardware Implemenation of Post-quantum cryptography schemes, my research bridges fundamental problems with real-world applications. I have a particular focus on:
 
-* **Hardware Design for Post-Quantum Cryptography. (mainly on lattice-based and isogeny-based PQCs)** 
-* **Hardware Attack: side-channel attack and fault attack.**
+- **Hardware Design for Post-Quantum Cryptography. (mainly on lattice-based and isogeny-based PQCs)**
+- **Hardware Attack: side-channel attack and fault attack.**
 
 I specialize in Lattice-based PQC Schems(e.g., Kyber, Dilithium and Raccoon), Isogeny-based Schems(SIKE), Masking and fault-tolerant computation.
-
