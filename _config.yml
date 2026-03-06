@@ -285,8 +285,8 @@ highlight_author: "Zhaoyu Zhang"
 scholar:
   #last_name: [Einstein]
   #first_name: [Albert, A.]
-  last_name: [Zhang]
-  first_name: [Zhaoyu]
+  last_name: [Ziying]
+  first_name: [Ni]
 
   style: apa
   locale: en
