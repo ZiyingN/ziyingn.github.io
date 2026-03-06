@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Most of my papers listed below are published in top-tier international conferences and journals in the field of computer vision, machine learning, artificial intelligence and multimedia, which are very selective with an acceptance rate in general below 25%. As the first author, I have published 1 ICML, 1 CVPR, 1 SIGGRAPH Asia, 2 ACM MM, 1, SIGIR, 2 TMM, 2 WACV, 1 CIKM, 1 ICASSP and 1 ICIP.",
+          description: "Most of my papers listed below are published in top-tier international conferences and journals in the field of Circuit and Systems and Cryptography, which are very selective with an acceptance rate in general below 25%. As the first author, I have published 2 IEEE TC, 1 DAC, 1 TCHES, 1 DATE, 1 IEEE TVLSI, 1 ACM TECS, 1 TCAS-II and 3 ISCAS.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
