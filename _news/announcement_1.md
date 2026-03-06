@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-25
+date: 2026-02-23
 inline: true
 related_posts: false
 ---
 
-One Paper has been accepted by SIGIR2025
+One Paper has been accepted by DAC2026
