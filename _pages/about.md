@@ -6,12 +6,12 @@ subtitle: <a href='#'>Research Fellow</a>. CSIT, Queen's University Belfast, Bel
 
 profile:
   align: right  # 建议改为 right，视觉上通常比 left 更平衡，图片在右文字在左
-  image: Ziying_Ni_N.jpg
+  image: Ziying.jpg
   image_circular: true
   address: >
-    <p>Darwin Research Center</p>
-    <p>Huawei 2012 Labs</p>
-    <p>London, UK</p>
+    <p>CSIT</p>
+    <p>QUB</p>
+    <p>Belfast, UK</p>
 
 selected_papers: false # 强烈建议改为 true，这是 al-folio 最好看的功能之一
 social: true
