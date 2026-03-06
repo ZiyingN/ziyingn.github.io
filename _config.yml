@@ -280,7 +280,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-highlight_author: "Zhaoyu Zhang"
+highlight_author: "Ziying Ni"
 
 scholar:
   #last_name: [Einstein]
