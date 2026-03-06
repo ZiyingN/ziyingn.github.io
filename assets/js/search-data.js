@@ -405,14 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-has-been-accepted-by-sigir2025",
-          title: 'One Paper has been accepted by SIGIR2025',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-icml2025",
+            },},{id: "news-one-paper-has-been-accepted-by-icml2025",
           title: 'One Paper has been accepted by ICML2025',
           description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-tmm",
-          title: 'One Paper has been accepted by TMM',
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-tc",
+          title: 'One Paper has been accepted by TC',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-dac2026",
+          title: 'One Paper has been accepted by DAC2026',
           description: "",
           section: "News",},{
         id: 'social-email',
