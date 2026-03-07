@@ -285,8 +285,8 @@ highlight_author: "Ziying Ni"
 scholar:
   #last_name: [Einstein]
   #first_name: [Albert, A.]
-  last_name: [Ziying]
-  first_name: [Ni]
+  last_name: [Ni]
+  first_name: [Ziying]
 
   style: apa
   locale: en
