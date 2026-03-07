@@ -7,12 +7,7 @@ nav_order: 3
 ---
 
 - **2025**: EEECS Thesis Award, Queen’s University Belfast, UK
-- **2025**: CVPR Travel Award, Nashville, USA
-- **2025**: School of EEECS Travel Award, Queen’s University Belfast, UK
-- **2024**: School of EEECS Travel Award, Queen’s University Belfast, UK
-- **2024**: School of EEECS Paper Award, Queen’s University Belfast, UK
-- **2021-2025**: DfE Ph.D. Scholarship, Queen’s University Belfast, UK
-- **2018**: Guorui Scholarship, University of Science and Technology of China (USTC)
-- **2018**: ICIP Travel Grant, Athens, Greece
-- **2014**: Outstanding Student Scholarship, University of Science and Technology of China (USTC)
-- **2013**: First Prize, National High School Mathematics Competition First Prize, National High School Mathmetic competations
+- **2024**: EEECS Paper Award, Queen’s University Belfast, UK
+- **2022-2024**: EPSRC Ph.D. Scholarship, Queen’s University Belfast, UK
+- **2021**: Outstanding graduates, Nanjing University of Aeronautics and Astronautics
+- **2020**: Advanced Individuals in Scientific Research and Innovation, Nanjing University of Aeronautics and Astronautics
