@@ -417,8 +417,8 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # Social link information
 # -----------------------------------------------------------------------------
 social:
-  email: zzhang55 [AT] qub.ac.uk
-  scholar: https://scholar.google.com/citations?hl=en&user=SeNxNjIAAAAJ&view_op=list_works&sortby=pubdate
+  email: z.ni [AT] qub.ac.uk
+  scholar: https://scholar.google.com/citations?user=sdyqjOYAAAAJ&view_op=list_works&sortby=pubdate
   # and many more…
 
 # -----------------------------------------------------------------------------
