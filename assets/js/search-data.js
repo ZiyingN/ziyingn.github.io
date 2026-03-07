@@ -416,14 +416,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%7A%7A%68%61%6E%67%35%35 [%41%54] %71%75%62.%61%63.%75%6B", "_blank");
+          window.open("mailto:%7A.%6E%69 [%41%54] %71%75%62.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=SeNxNjIAAAAJ&hl", "_blank");
+          window.open("https://scholar.google.com/citations?user=sdyqjOYAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
