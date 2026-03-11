@@ -1,1 +1,8 @@
---- layout: post date: 2026-03-11 inline: true related_posts: false --- One Paper has been accepted by TC
+---
+layout: post
+date: 2026-03-11
+inline: true
+related_posts: false
+---
+
+One Paper has been accepted by TC
