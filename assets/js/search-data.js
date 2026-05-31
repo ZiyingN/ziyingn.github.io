@@ -411,8 +411,8 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-has-been-accepted-by-dac2026",
           title: 'One Paper has been accepted by DAC2026',
           description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-tc",
-          title: 'One Paper has been accepted by TC',
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-iacr-tches",
+          title: 'One Paper has been accepted by IACR TCHES',
           description: "",
           section: "News",},{
         id: 'social-email',
