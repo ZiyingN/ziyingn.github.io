@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher Professor</a>. CSIT, College of Integrated Circuits, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
+subtitle: <a href='#'>Researcher Professor</a>. College of Integrated Circuits, Nanjing University of Aeronautics and Astronautics, Nanjing, China.
 
 profile:
   align: right # 建议改为 right，视觉上通常比 left 更平衡，图片在右文字在左
