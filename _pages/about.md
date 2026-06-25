@@ -27,9 +27,9 @@ latest_posts:
   limit: 3
 ---
 
-I am currently a Research Fellow at **CSIT, Queen's University Belfast** in Belfast, UK.
+I am currently a Researcher Professor at **College of Integrated Circuits, Nanjing University of Aeronautics and Astronautics**.
 
-I obtained my Ph.D. in 2024 from **Queen's University Belfast (QUB)**, UK, under the supervision of Prof. [Máire O'Neill](https://www.qub.ac.uk/schools/eeecs/Study/PostgraduateResearch/find-a-phd-supervisor/professor-maire-oneill.html), Dr. [Ayesha Khalid](https://www.qub.ac.uk/schools/eeecs/Study/PostgraduateResearch/find-a-phd-supervisor/dr-ayesha-khalid.html). My Ph.D. research was fully funded by the EPSRC studentship. Prior to that, I received my Master’s (2021) from **Nanjing University of Aeronautics and Astronautics** advised by Prof. [Weiqaing Liu](https://faculty.nuaa.edu.cn/lwq/en/index.htm) and Bachelor's (2018) degrees from the **Hainan University**.
+I obtained my Ph.D. in 2024 from **Queen's University Belfast (QUB)**, UK, under the supervision of Prof. [Máire O'Neill](https://www.qub.ac.uk/schools/eeecs/Study/PostgraduateResearch/find-a-phd-supervisor/professor-maire-oneill.html), Dr. [Ayesha Khalid](https://www.qub.ac.uk/schools/eeecs/Study/PostgraduateResearch/find-a-phd-supervisor/dr-ayesha-khalid.html). My Ph.D. research was fully funded by the EPSRC studentship. Prior to that, I received my Master’s (2021) from **Nanjing University of Aeronautics and Astronautics** advised by Prof. [Weiqaing Liu](https://faculty.nuaa.edu.cn/lwq/en/index.htm) and Bachelor's (2018) degrees from the **Hainan University**. I worked as a postdoctoral researcher at **CSIT, Queen’s University Belfast**, UK, for two years under Prof. Máire O'Neill’s supervision.
 
 With over 8 years of experience in Hardware Implemenation of Post-quantum cryptography schemes, my research bridges fundamental problems with real-world applications. I have a particular focus on:
 
